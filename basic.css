@@ -1,0 +1,485 @@
+
+.polaroid11 {
+	background-color: white;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 30%;
+}
+.things {
+	background-image: url("thingsbackground.jpg");
+	line-height: 150pt;
+    color: white;
+	font-family: "forte", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+    background-repeat: no-repeat;
+	margin: 0 0 0 0;
+}
+body {
+	margin: 0 0 0 0;
+}
+.icon {
+	width: 30px;
+	height: 30px;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+.topnav2 {
+    background-color: black;
+    overflow: hidden;
+	box-shadow: none;
+}
+.other {
+	font-family: "berlin sans fb", monospace;
+	font-size: 15pt;
+	color: white;
+	text-decoration: none;
+	line-height: 2;
+	padding: 14px 16px;
+}
+.none {
+	box-shadow: none;
+}
+li {
+	font-family: "berlin sans fb", monospace;
+	font-size: 20px;
+	line-height: 4;
+}
+.bibliography {
+	background-image: url("bibbackground.jpg");
+	line-height: 150pt;
+    color: white;
+	font-family: "forte", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+    background-repeat: no-repeat;
+	margin: 0 0 0 0;
+}
+.human {
+	background-image: url("humanbackground.jpg");
+	line-height: 150pt;
+    color: black;
+	font-family: "forte", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+    background-repeat: no-repeat;
+	margin: 0 0 0 0;
+}
+.soil {
+	background-image: url("soilbackground.jpg");
+	line-height: 150pt;
+    color: black;
+	font-family: "forte", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+	background-repeat: no-repeat;
+	margin: 0 0 0 0
+}
+.polaroid10 {
+	width: 30%;
+	margin-bottom: 25px;
+	margin-left: 66%;
+	margin-top: -333px;
+	background-color: white;
+}
+.polaroid9 {
+	width: 30%;
+	margin-bottom: 25px;
+	margin-left: 35%;
+	margin-top: -333px;
+	background-color: white;
+}
+.polaroid8 {
+	width: 30%;
+	margin-bottom: 25px;
+	margin-left: 4%;
+	margin-top: 0%;
+	background-color: white;
+}
+.vegetation {
+	background-image: url("vegetationbackground.jpg");
+	line-height: 150pt;
+    color: white;
+	font-family: "forte", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+    background-repeat: no-repeat;
+	margin: 0 0 0 0;
+	padding: 0;
+}
+.textbox5 {
+	font-family: "berlin sans fb", monospace;
+	font-size: 20px;
+	background: lightblue;
+	width: max-width;
+	height: 250px;
+    padding: 25px;
+	margin-top: -305px;
+    margin-left: 405px;
+	text-align: center;
+	margin-right: 10px;
+}
+.textbox4 {
+	font-family: "berlin sans fb", monospace;
+	font-size: 20px;
+	line-height: 2;
+	background: #EAF8C9;
+	width: max-width;
+	height: 250px;
+    padding: 25px;
+	margin-top: -305px;
+    margin-left: 405px;
+	text-align: center;
+	margin-right: 10px;
+}
+.textbox11 {
+	font-family: "berlin sans fb", monospace;
+	font-size: 20px;
+	line-height: 2;
+	background: #FADBDC;
+	width: max-width;
+	height: 250px;
+    padding: 25px;
+	margin-top: -305px;
+    margin-left: 405px;
+	text-align: center;
+	margin-right: 10px;
+}
+.wildlife {
+	background-image: url("aok.jpg");
+	line-height: 150pt;
+    color: black;
+	font-family: "Brush Script MT", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+    background-repeat: no-repeat;
+	margin: 0 0 0 0
+}
+.change {
+	height: 237px;
+	width: 100%;
+}
+.polaroid7 {
+	width: 30%;
+	margin-top: -23%;
+	margin-left: 50%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19)
+}
+.polaroid6 {
+	width: 30%;
+	margin-left: 19%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.polaroidvideo {
+	width: 30%;
+	margin-bottom: 25px;
+	margin-left: 35%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.polaroidalone {
+	width: 30%;
+	margin-bottom: 25px;
+	margin-left: 35%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.polaroid5 {
+	width: 53%;
+	margin-bottom: 25px;
+	margin-left: 324px;
+	background-color: white;
+}
+.polaroid4 {
+	width: 20%;
+	margin-bottom: 25px;
+	margin-left: 54.5%;
+	margin-top: -428px;
+	background-color: white;
+}
+.polaroid3 {
+	width: 31.5%;
+	margin-bottom: 25px;
+	margin-left: 324px;
+	margin-top: 20px;
+	background-color: white;
+}
+.landforms {
+	line-height: 150pt;
+    color: red;
+	font-family: "Brush Script MT", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-image: url("perspective.jpg");
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+    background-repeat: no-repeat;
+	margin: 0 0 0 0
+}
+.pink {
+	background: #F9EBDF;
+}
+.green {
+	background: #EEEEEE;
+}
+.lightblue {
+	background-color: #EFF9DA;
+}
+.soap {
+	background-color: #D6CDEA;
+}
+.ocean {
+	background-color: #f7e2e9;
+}
+.timeline {
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	height: 80%;
+}
+div.polaroid2 {
+  width: 31.5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  margin-left: 35%;
+  margin-top: -32.65%;
+}
+.reg {
+	font-family: "Calibri", monospace;
+	font-size: 17px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 60px;
+	margin-right: 60px;
+	line-height: 2.5;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.regular {
+	font-family: "Brush script MT", monospace;
+	font-size: 50px;
+	text-align: center;
+	line-height: 1;
+}
+.caption {
+	font-family: "berlin sans fb", monospace;
+	font-size: 16px;
+	text-align: center;
+}
+.catch {
+	font-family: "forte", monospace;
+	font-size: 50px;
+	text-align: center;
+}
+.background {
+	background-image: url("citystreets.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat; 
+}
+div.gallery {
+    border: 1px solid #ccc;
+}
+div.gallery:hover {
+    opacity: 0.6;
+	transition: .5s ease;
+}
+div.gallery img {
+    width: 100%;
+    height: 200px;
+}
+div.desc {
+    padding: 15px;
+    text-align: center;
+	font-family: "berlin sans fb", monospace;
+}
+* {
+    box-sizing: border-box;
+}
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+	margin-left: 80px;
+}
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%
+    }
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.climate {
+	line-height: 150pt;
+    color: red;
+	font-family: "Brush Script MT", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-image: url("wok.jpg");
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+    background-repeat: no-repeat;
+	margin: 0 0 0 0
+	
+}
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.textbox2 {
+	font-family: "berlin sans fb", monospace;
+	font-size: 20px;
+	background-color: white;
+	width: max-wdth;
+	height: 250px;
+    padding: 25px;
+	margin-top: -308px;
+    margin-left: 405px;
+	margin-right: 10px;
+}
+.places {
+	width: 400px;
+	height: 250px;
+	border: white;
+	margin-left: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.topplaces {
+	font-family: "berlin sans fb", monospace;
+	font-size: 25px;
+	color: black;
+	text-align: center;
+}
+img {
+	width: 100%;
+}
+div.polaroid {
+width: 400px;
+	height: 400px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  margin-left: 67%;
+  margin-top: -434px;
+}
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+.toplaces  {
+	font-family: "forte", monospace;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+.textbox {
+	font-family: "berlin sans fb", monospace;
+	font-size: 20px;
+	background-color: white;
+    width: 800px;
+	height: 400px;
+    padding: 25px;
+	margin-top: 25px;
+    margin-left: 0px;
+	text-align: justify;
+	line-height: 2.9;
+	background: #EAF8C9;
+}
+p {
+	font-family: "berlin sans fb", monospace;
+	font-size: 15 px;
+}
+div {
+	<!box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)>;
+}
+.boreal{
+	line-height: 100pt;
+    color: #E91313;
+	font-family: "Brush Script MT", monospace;
+	text-align: center;
+	font-size: 80pt;
+	background-image: url("home.jpg");
+	background-size: cover;
+	height: 600px; 
+	width: 100%;
+    background-repeat: no-repeat;
+	margin: 0 0 0 0
+}
+a {
+	font-family: "Berlin Sans FB", monospace;
+	margin-left: 10%
+}
+/* Add a white background color to the top navigation */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+	box-shadow: none;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
+
+/* Add a dark background on topnav links and the dropdown button on hover */
+.topnav a:hover, .dropdown:hover .dropbtn {
+    background-color: black;
+    color: white;
+}
+/* Add an active class to highlight the current page */
+.active {
+	color: white;
+}
+
